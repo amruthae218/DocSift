@@ -1,0 +1,10 @@
+nicegui
+pydantic 
+fastapi 
+uvicorn
+pdfplumber 
+pytesseract 
+pillow
+spacy
+rapidfuzz
+fitz 

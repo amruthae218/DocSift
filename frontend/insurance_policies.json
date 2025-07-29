@@ -1,0 +1,155 @@
+[
+  {
+    "plan_name": "Arogya Sanjeevani Standard Health Insurance",
+    "description": "IRDAI-mandated basic indemnity cover for hospitalization, daycare, AYUSH and pre/post-hospitalization.",
+    "sum_insured_options": "₹50,000–₹5,00,000 (in ₹50,000 multiples)",
+    "age_eligibility": "18–65 years; dependent children 3 months–25 years",
+    "features": {
+      "In-Patient Hospitalisation": "Covered (24 hr+ stay)",
+      "Pre-Hospitalisation": "30 days",
+      "Post-Hospitalisation": "60 days",
+      "Room Rent": "2% of SI (max ₹5,000/day)",
+      "ICU Charges": "5% of SI (max ₹10,000/day)",
+      "Day-Care Procedures": "All procedures covered",
+      "AYUSH Treatment": "Covered up to SI",
+      "Road Ambulance": "₹2,000 per hospitalization",
+      "Cataract Surgery": "25% of SI (max ₹40,000/eye)",
+      "Cumulative Bonus": "5% per claim-free year (max 50%)"
+    },
+    "partially_covered": {
+      "Pre-Existing Diseases": "36-month waiting period",
+      "Specific Illnesses": "24/36 month waiting (e.g., hernia, cataract)",
+      "Co-payment": "5% on each claim"
+    },
+    "exclusions": [
+      "Cosmetic/plastic surgery",
+      "Infertility treatments",
+      "Non-emergency dental/ophthalmic",
+      "Experimental procedures",
+      "OPD treatment"
+    ]
+  },
+  {
+    "plan_name": "Star Comprehensive Insurance Policy",
+    "description": "Feature-rich floater/individual plan covering inpatient, OPD add-on, maternity, AYUSH, ambulance and wellness.",
+    "sum_insured_options": "₹5 L–₹25 L (individual/floater)",
+    "age_eligibility": "18–65 years; children 91 days–25 years",
+    "features": {
+      "In-Patient Hospitalisation": "Covered",
+      "Pre-Hospitalisation": "60 days",
+      "Post-Hospitalisation": "90 days",
+      "Room Rent": "No cap (private single AC)",
+      "Road Ambulance": "Covered (admission & transfer)",
+      "Air Ambulance": "₹2.5 L per hospitalization (max ₹5 L/year)",
+      "Day-Care Procedures": "Covered",
+      "Maternity & Newborn": "Covered (max 2 deliveries)",
+      "Automatic Restoration": "100% SI once per year",
+      "OPD Consultation": "Covered; dental/ophthalmic limited every 3 years",
+      "Annual Health Check-Up": "One per claim-free year",
+      "Hospital Cash": "₹500/day up to 7 days per hospitalization"
+    },
+    "partially_covered": {
+      "Co-payment": "10% for age ≥61"
+    },
+    "exclusions": [
+      "Cosmetic/plastic surgery",
+      "Infertility treatments",
+      "Experimental procedures",
+      "Non-medical supplies"
+    ]
+  },
+  {
+    "plan_name": "Royal Sundaram Multiplier Health Insurance",
+    "description": "Floater plan with NCB-based sum-insured multipliers (up to 4× and 11×), wellness benefits and flexi-reload.",
+    "sum_insured_options": "₹5 L–₹25 L",
+    "age_eligibility": "18–65 years; children 90 days–25 years",
+    "features": {
+      "In-Patient Care": "Covered (OT, ICU, consumables)",
+      "Pre-Hospitalisation": "60 days",
+      "Post-Hospitalisation": "90 days",
+      "Day-Care Treatments": "Covered",
+      "Organ Donor Expenses": "Covered",
+      "AYUSH Treatment": "Covered",
+      "Ambulance": "App-cab & road covered",
+      "Second Opinion": "Once per year for 22 specified illnesses",
+      "No-Claim Bonus": "20% SI per year (up to 100% SI)",
+      "Flexi Reload": "100% base SI once per year",
+      "4× Multiplier": "Up to 4× SI for life-threatening conditions",
+      "11× Multiplier": "×11 SI after 5 claim-free years"
+    },
+    "partially_covered": {
+      "Pre-Existing Diseases": "Years 2–3 at 50% co-pay up to sub-limits",
+      "Waiting Period": "30 days general; 24 months specific; 36 months PED"
+    },
+    "exclusions": [
+      "Cosmetic/plastic surgery",
+      "Maternity",
+      "Infertility",
+      "Refractive errors",
+      "Unproven treatments"
+    ]
+  },
+  {
+    "plan_name": "HDFC ERGO Optima Restore",
+    "description": "Comprehensive individual/family plan with instant 100% SI restoration and multiplier benefits.",
+    "sum_insured_options": "₹3 L–₹50 L (up to ₹2 Cr retail)",
+    "age_eligibility": "18–65 years",
+    "features": {
+      "In-Patient Hospitalisation": "Covered",
+      "Pre-Hospitalisation": "60 days",
+      "Post-Hospitalisation": "180 days",
+      "Day-Care Procedures": "586+ covered",
+      "Home Healthcare": "Covered",
+      "Organ Donor": "Covered",
+      "AYUSH": "Covered",
+      "Road Ambulance": "Covered",
+      "Preventive Health Check-Up": "₹10,000 at renewals",
+      "Restore Benefit": "100% SI instant restore after first claim",
+      "Multiplier Benefit": "50% SI per 2 claim-free years (max 100% SI)",
+      "No Room-Rent Limits": "No capping"
+    },
+    "partially_covered": {
+      "Daily Cash (shared room)": "₹1,000/day (max ₹6,000 per hospitalization)",
+      "Waiting Period": "30 days general; 2 years specific; 3 years PED"
+    },
+    "exclusions": [
+      "Cosmetic/plastic surgery",
+      "Dental procedures (non-accident)",
+      "Infertility treatments",
+      "OPD (unless add-on)",
+      "Experimental treatments"
+    ]
+  },
+  {
+    "plan_name": "Niva Bupa ReAssure 2.0",
+    "description": "Flexible floater/individual plan with unlimited sum-insured reinstatement, Booster+ carry-forward and no room-rent caps.",
+    "sum_insured_options": "₹5 L–₹100 L",
+    "age_eligibility": "18–65 years; family floater up to 6 members",
+    "features": {
+      "In-Patient Hospitalisation": "Covered (2 hr+ admission)",
+      "Pre-Hospitalisation": "60 days",
+      "Post-Hospitalisation": "180 days",
+      "Day-Care Treatments": "Covered",
+      "Modern Treatments": "12 advanced procedures covered",
+      "Road Ambulance": "Covered",
+      "Home Care": "Covered",
+      "AYUSH Treatment": "Covered",
+      "ReAssure Forever": "Unlimited SI reinstatement after first claim",
+      "Booster+ Benefit": "Carry forward unused SI up to 10× base",
+      "Lock the Clock": "Premium based on entry age until first claim",
+      "Annual Health Check-Up": "Day-1 cover"
+    },
+    "partially_covered": {
+      "Waiting Period": "30 days general; 2 years specific; 3 years PED",
+      "Co-payment": "10% for certain age bands"
+    },
+    "exclusions": [
+      "Maternity & newborn",
+      "Infertility treatments",
+      "Cosmetic surgery",
+      "Unproven treatments",
+      "Hazardous sports injuries"
+    ]
+  }
+]
+ 
